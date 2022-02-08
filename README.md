@@ -1,5 +1,5 @@
 # std
-c's std ported to python
+c++'s std ported to python
 
 # usage
 1. download std.py
