@@ -1,6 +1,6 @@
-class cppToPythonHelper:
+class std:
     def __lshift__(self, a):
         print(a)
 
 def main():pass
-cout = cppToPythonHelper()
+cout = std()
