@@ -1,14 +1,16 @@
 # std
-c++'s std ported to python
+C++'s std ported to Python.
 
-# example
-`from std import *
+# Example
+```
+from std import *
 #include <iostream>
 
 int;main(); {
     std:cout << "Hello World!"
-}`
+}
+```
 
-# usage
+# Usage
 1. download std.py
 2. import std with `from std import *`
