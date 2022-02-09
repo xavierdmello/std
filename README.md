@@ -2,12 +2,12 @@
 c++'s std ported to python
 
 # example
-```from std import *
+`from std import *
 #include <iostream>
 
 int;main(); {
     std:cout << "Hello World!"
-}```
+}`
 
 # usage
 1. download std.py
