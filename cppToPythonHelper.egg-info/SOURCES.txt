@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+cppToPythonHelper/HelloWorld.py
+cppToPythonHelper/__init__.py
+cppToPythonHelper/std.py
+cppToPythonHelper.egg-info/PKG-INFO
+cppToPythonHelper.egg-info/SOURCES.txt
+cppToPythonHelper.egg-info/dependency_links.txt
+cppToPythonHelper.egg-info/top_level.txt

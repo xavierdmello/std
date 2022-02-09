@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: cppToPythonHelper
+Version: 0.0.1
+Summary: A Package to help C++ developers transition to python
+Home-page: https://github.com/xavierdmello/std
+Author: Xavier D
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# std
+Useful for Python programmers transferring over from C++.
+
+# Example
+```
+from std import *
+#include <iostream>
+
+int;main(); {
+    std:cout << "Hello World!"
+}
+```
+
+# Usage
+1. download std.py
+2. import std with `from std import *`
+
+
