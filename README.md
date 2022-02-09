@@ -1,5 +1,5 @@
 # std
-Python's implementation of the C++ Standard Library.
+Useful for Python programmers transferring over from C++.
 
 # Example
 ```
