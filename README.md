@@ -3,7 +3,7 @@ Useful for Python programmers transferring over from C++.
 
 # Example
 ```
-from std import *
+from cppToPythonHelper import *
 #include <iostream>
 
 int;main(); {
@@ -12,5 +12,5 @@ int;main(); {
 ```
 
 # Usage
-1. download std.py
-2. import std with `from std import *`
+1. download cppToPythonHelper.py
+2. import cppToPythonHelper with `from cppToPythonHelper import *`
