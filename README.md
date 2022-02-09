@@ -14,3 +14,4 @@ int;main(); {
 # Usage
 1. download std.py
 2. import std with `from std import *`
+--> For portable production code, you may instead use `exec("class std:\n\tdef __lshift__(self, a):\n\t\tprint(a)\ndef main():pass\ncout = std()")`
