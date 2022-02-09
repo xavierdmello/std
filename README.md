@@ -12,5 +12,5 @@ int;main(); {
 ```
 
 # Usage
-1. download cppToPythonHelper.py
-2. import cppToPythonHelper with `from cppToPythonHelper import *`
+1. `pip install cppToPythonHelper`
+2. import cppToPythonHelper: `from cppToPythonHelper import *`
