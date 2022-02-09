@@ -1,5 +1,5 @@
 # std
-C++'s std ported to Python.
+Python's implementation of the C++ Standard Library.
 
 # Example
 ```
