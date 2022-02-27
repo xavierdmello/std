@@ -3,7 +3,7 @@ Useful for Python programmers transferring over from C++.
 
 # Example
 ```
-from std import *
+from cppToPythonHelper import *
 #include <iostream>
 
 int;main(); {
